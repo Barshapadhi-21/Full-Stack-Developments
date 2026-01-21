@@ -60,22 +60,22 @@ body {
 <!-- Header -->
 <div class="header">
   <h1>Responsive Image Grid</h1>
-  <p>Cricket began in England during the 16th century as a simple village game. Over time, it spread across the world through British influence and became a major international sport loved in many countries, especially India, England, Australia, Pakistan, South Africa, Sri Lanka, New Zealand, and West Indies.</p>
+  <p>A red rose is one of the most well-known flowers in the world. It is admired for its bright red color, smooth petals, and pleasant fragrance. Red roses are often seen in gardens, bouquets, and decorative arrangements. Apart from beauty, a red rose carries symbolic meaning. It commonly represents respect, admiration, and appreciation. In culture and history, red roses have been used as symbols in poetry, art, and celebrations. They are also given during special occasions to express positive feelings and kindness.</p>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="https://c.ndtvimg.com/2025-10/51ovgjp_rcb-kohli-de-villiers-and-gayle-bcci_625x300_02_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" style="width:100%">
+    <img src="https://www.flowersinthewoods.com.au/cdn/shop/products/image_c5186ebc-d195-4cf3-82e2-6e1aa8b1996e_1024x1024.jpg?v=1686096217" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_FF5IYP0LBXecjF5j_0lBcMQoEaBtl5ZDQ&s" style="width:100%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThW4LI_igYP4QkCXFatNi_KJGoQtBL5HHk2g&s" style="width:100%">
   </div>  
   <div class="column">
-    <img src="https://images.moneycontrol.com/static-mcnews/2024/03/@ChennaiIPL-1-770x435.jpg?impolicy=website&width=770&height=431" style="width:100%">
+    <img src="https://media.istockphoto.com/id/510803688/photo/dozen-red-roses-proposal-selective-focus.jpg?s=612x612&w=0&k=20&c=AkfALzEIAxrw7Yuyku0-luEqpNopNgzyio-WSOb-vY4=" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2023/08/02144310/all-Indian-cricketer-name.jpg" style="width:100%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotcjsMXWsC6mmVTVpbgPja72Ge6Dc7tUHyQ&s" style="width:100%">
   </div>
 </div>
 
