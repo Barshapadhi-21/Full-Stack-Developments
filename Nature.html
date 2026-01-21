@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Nature....</h1>
+  <p> Nature refers to everything that exists in the world without being made by humans. It includes plants, animals, mountains, rivers, oceans, forests, air, and the changing seasons. Nature provides us with fresh air to breathe, water to drink, and food to survive. It is also beautiful and peaceful, and people often visit natural places to relax and feel calm. Protecting nature is important, because many natural resources are limited and animals and plants depend on a healthy environment to live. </p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="https://www.shutterstock.com/image-photo/sun-sets-behind-mountain-ranges-600nw-2479236003.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://m.media-amazon.com/images/I/71oDTJru50L._AC_UF1000,1000_QL80_.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbW_zvcZs1mX-ya-UUBUvxC0YEuW2okuXiQ&s" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTANbPK_j5l3X7YaMWV75yz8zTXnrcuc443A&s" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
