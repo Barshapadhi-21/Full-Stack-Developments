@@ -60,22 +60,35 @@ body {
 <!-- Header -->
 <div class="header">
   <h1>Responsive Image Grid</h1>
-  <p>A red rose is one of the most well-known flowers in the world. It is admired for its bright red color, smooth petals, and pleasant fragrance. Red roses are often seen in gardens, bouquets, and decorative arrangements. Apart from beauty, a red rose carries symbolic meaning. It commonly represents respect, admiration, and appreciation. In culture and history, red roses have been used as symbols in poetry, art, and celebrations. They are also given during special occasions to express positive feelings and kindness.</p>
+  <p>은 RM, 진, 슈가, 제이홉, 지민, 뷔, 정국으로 이루어진 한국의 세계적인 보이 그룹이다. 이들은 청소년과 자아 사랑, 감정, 현실적인 고민 등을 음악으로 표현하여 전 세계 팬들과 깊게 소통하고 있다. BTS는 빌보드 차트, 그래미 노미네이션, 기네스 기록, UN 연설 등 다양한 글로벌 성과를 이루며 K-POP을 국제적으로 더욱 알렸다.
+ </p>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="https://www.flowersinthewoods.com.au/cdn/shop/products/image_c5186ebc-d195-4cf3-82e2-6e1aa8b1996e_1024x1024.jpg?v=1686096217" style="width:100%">
+    <img src="https://assets.vogue.in/photos/64003791f02f494b19853b16/master/w_1600%2Cc_limit/1389408711">
   </div>
   <div class="column">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThW4LI_igYP4QkCXFatNi_KJGoQtBL5HHk2g&s" style="width:100%">
+    <img src="https://ztvcj4n2fh.execute-api.ap-south-1.amazonaws.com/Prod/times-special/Bombaytimes/posts/1763557077877/assets/images/1763557856906-suga.jpg">
   </div>  
   <div class="column">
-    <img src="https://media.istockphoto.com/id/510803688/photo/dozen-red-roses-proposal-selective-focus.jpg?s=612x612&w=0&k=20&c=AkfALzEIAxrw7Yuyku0-luEqpNopNgzyio-WSOb-vY4=" style="width:100%">
+    <img src="https://i.zoomtventertainment.com/story/jin.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotcjsMXWsC6mmVTVpbgPja72Ge6Dc7tUHyQ&s" style="width:100%">
+    <img src="https://filmfare.wwmindia.com/content/2025/may/btsrmbtsrm1748350663.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://m.media-amazon.com/images/I/41IzrEh5tHL._AC_UF894,1000_QL80_.jpg" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqP0Y_W6vvoiMM1pA4uenVL9zoSRXZwlJTeQ&s" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTir0F1ixGbrJ_7tNVv0n6SvS__5yLFXs7FRQ&s" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://hips.hearstapps.com/hmg-prod/images/jimin-jungkook-rm-j-hope-v-jin-and-suga-of-the-k-pop-boy-news-photo-1765824739.pjpeg?crop=1xw:0.7922xh;0,0.0135xh" style="width:100%">
   </div>
 </div>
 
